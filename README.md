@@ -4,5 +4,5 @@ At first, I choose goodreads.com to collect the comments data, but the the websi
 This report contains two parts: the first is web scraping the second is data cleaning and analyzing. Crawling through these reviews and simply analyzing the data will give us an idea of what readers are saying about the book and what issues are being discussed in depth.
 
 # Updates for resit
-## The initial version was rushed and rough without explanatory notes. At this version, I add notes as detail as possible while deleted the report.
+The initial version was rushed and rough without explanatory notes. At this version, I add notes as detail as possible while deleted the report.
 Also, I applyed more libraries, changed some codes to make it more logical and fluent, added more visualization with research questions.
